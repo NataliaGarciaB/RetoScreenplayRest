@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Prueba del servicio GET" skipped="0" tests="2" time="13.36" timestamp="2022-01-12 08:44:59"><testcase name="Verificar respuesta del servio GET del usuario veintitres"/><testcase name="Verificar respuesta del servio GET del usuario doce"/></testsuite>

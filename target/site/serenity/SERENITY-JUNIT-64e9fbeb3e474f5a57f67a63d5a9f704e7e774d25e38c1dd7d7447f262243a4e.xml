@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Prueba del servicio POST" skipped="0" tests="2" time="3.64" timestamp="2022-01-12 08:45:12"><testcase name="Verificar respuesta del servio POST REGISTER"/><testcase name="Verificar respuesta del servio POST UNSUCCESFUL"/></testsuite>
